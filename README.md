@@ -9,5 +9,5 @@ Details:
 Contact:
 - Email: odedra.r@northeastern.edu 
 - Phone: (857)398-3286 
-- LinkedIn: [rahulodedra30](LinkedIn/rahulodedra30) 
-- GitHub: [rahulodedra30](Github/rahulodedra30)
+- LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
+- GitHub: [rahulodedra30](https://github.com/rahulodedra30)
