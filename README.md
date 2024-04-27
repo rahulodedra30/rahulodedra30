@@ -4,7 +4,7 @@ I am Rahul Odedra, a Data Analytics graduate student with a passion for leveragi
 
 Details:
 - Education: Currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University, Boston, and also hold a Bachelor's degree focused in Computer Science.
-- Skills: Python, SQL, NoSQL, C++, Machine Learning, Deep Learning, Predictive Analytics, Apache Spark, Databrics, Amazon Web Services, Google Cloud Platform, Tableau, Alteryx, Time Series, Microsoft Excel, Quantitative research, Statistical Data Analysis.
+- Skills: Python, SQL, NoSQL, C++, Machine Learning, Deep Learning, Natural Language Processing, Predictive Analytics, Apache Spark, Databrics, Amazon Web Services, Google Cloud Platform, Tableau, Alteryx, Time Series, Microsoft Excel, Quantitative research, Statistical Data Analysis.
 
 Contact:
 - Email: odedra.r@northeastern.edu 
