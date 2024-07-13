@@ -1,13 +1,22 @@
 ### Hi there 👋
 
-I am Rahul Odedra, a Data Analytics graduate student with a passion for leveraging Python, Machine Learning, SQL, and Statistical Data Analysis to derive meaningful insights from data. With professional experience as a Data Analyst and Data Science Intern, I excel in developing robust data-driven solutions and automating processes for enhanced efficiency.
+Rahul is a Data Analytics graduate student at Northeastern University with two years of experience leveraging data to support businesses in automated and strategic decision-making. He has extensive expertise in Analytics, ML/MLOps, Natural Language Processing, and Image Processing.
 
-Details:
-- Education: Currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University, Boston, and also hold a Bachelor's degree focused in Computer Science.
-- Skills: Python, SQL, NoSQL, C++, Machine Learning, Deep Learning, Natural Language Processing, Predictive Analytics, Apache Spark, Databricks, Amazon Web Services, Google Cloud Platform, Tableau, Alteryx, Time Series, Microsoft Excel, Quantitative research, Statistical Data Analysis.
+**EDUCATION:**  
+- Master of Science in Data Analytics Engineering at Northeastern University, Boston (May 2025)
+- Bachelor of Engineering in Computer Science (June 2022) <br>
 
+**SKILLS | TECHNOLOGIES:** <br>
+- **Programming:** Python, SQL, NoSQL, C++ <br>
+- **Databases:** MySQL, PostgreSQL, MS SQL Server, MongoDB, BigQuery, Redshift, Neo4j <br>
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Spark, NLTK, TensorFlow, PyTorch, Keras, OpenCV, HuggingFace <br>
+- **Deployment:** FastAPI, Docker Compose, Kubernetes, DVC, MLflow, GitHub Actions  <br>
+- **Developer Tools:** Tableau, Airflow, Google Cloud Platform (GCP), Amazon Web Services (AWS), Databricks <br>
+
+  
 Contact:
 - Email: odedra.r@northeastern.edu 
 - Phone: (857)398-3286 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
+- Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahulodedra30)
