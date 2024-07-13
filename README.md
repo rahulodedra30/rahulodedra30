@@ -16,7 +16,7 @@ Rahul is a Data Analytics graduate student at Northeastern University with two y
   
 Contact:
 - Email: odedra.r@northeastern.edu 
-- Phone: (857)398-3286 
+- Phone: +1(857)398-3286 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahulodedra30)
