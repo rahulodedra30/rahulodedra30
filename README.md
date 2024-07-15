@@ -12,6 +12,7 @@ Rahul is a Data Analytics graduate student at Northeastern University with two y
 - **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Spark, NLTK, TensorFlow, PyTorch, Keras, OpenCV, HuggingFace <br>
 - **Deployment:** FastAPI, Docker Compose, Kubernetes, DVC, MLflow, GitHub Actions  <br>
 - **Developer Tools:** Tableau, Airflow, Google Cloud Platform (GCP), Amazon Web Services (AWS), Databricks <br>
+- **Certifications:** AWS Generative AI, Advanced SQL (HackerRank) <br>
 
   
 Contact:
