@@ -21,3 +21,5 @@ Contact:
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahulodedra30)
+- Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)
+
