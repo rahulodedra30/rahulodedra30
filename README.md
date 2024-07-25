@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Rahul is a Data Analytics graduate student at Northeastern University with 2 years of experience leveraging data to support businesses in automated and strategic decision-making. He has extensive expertise in Analytics, ML, MLOps, Natural Language Processing, and Computer Vision.
+Rahul is a Data Analytics graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. He has extensive expertise in Analytics, ML, MLOps, Natural Language Processing, and Computer Vision.
 
 **EDUCATION:**  
 - Master of Science in Data Analytics Engineering at Northeastern University, Boston (May 2025)
