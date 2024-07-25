@@ -14,7 +14,7 @@ Rahul is a Data Analytics graduate student at Northeastern University with 2+ ye
 - **Cloud Technologies:** Google Cloud Platform, Amazon Web Services <br>
 - **Certifications:** AWS Generative AI, Advanced SQL (HackerRank) <br>
   
-Contact:
+**CONTACT:**
 - Email: odedra.r@northeastern.edu 
 - Phone: +1(857)398-3286 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
