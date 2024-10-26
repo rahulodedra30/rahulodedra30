@@ -20,7 +20,7 @@ I'm a Data Analytics graduate student at Northeastern University with 2+ years o
 
 ---
 
-**CONTAT:**
+**CONTACT:**
 - Email: odedra.r@northeastern.edu 
 - Phone: +1(857)398-3286 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
