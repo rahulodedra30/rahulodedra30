@@ -16,7 +16,7 @@ I'm a Data Analytics graduate student at Northeastern University with 2+ years o
 - **Data Engineering:** MySQL, PostgreSQL, MongoDB, BigQuery, Airflow, Redis, Spark, Snowflake, Databricks, Tableau <br>
 - **Deployment:** Docker, Kubernetes, Vertex AI, SageMaker, FastAPI, DVC, MLflow, GitHub Actions <br>
 - **Cloud Technologies:** Google Cloud Platform, Amazon Web Services <br>
-- **Certifications:** AWS Generative AI, Advanced SQL (HackerRank) <br>
+- **Certifications:** Databricks Generative AI, AWS Generative AI with LLMs, Advanced SQL (HackerRank) <br>
 
 ---
 
