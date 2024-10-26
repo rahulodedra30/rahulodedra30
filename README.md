@@ -1,6 +1,6 @@
 # Hey, I'm Rahul! 👋
 
-I'm a Data Analytics graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. He has extensive expertise in Analytics, ML, MLOps, Natural Language Processing, and Computer Vision.
+I'm a Data Analytics graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
 
 ---
 
