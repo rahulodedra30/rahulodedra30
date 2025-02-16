@@ -30,5 +30,8 @@
 <!-- - Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)  
 -->
 
+---
+
+**GitHub Stats:**
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
