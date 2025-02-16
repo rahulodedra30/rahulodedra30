@@ -1,10 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=rahulodedra30&label=PROFILE%20VIEWS&color=164B60&style=plastic" alt="Rahul-Odedra" />
 
-# Hey, I'm Rahul! 👋
+### Hey, I'm Rahul! 👋
 
-I'm a Data Analytics graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
-
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
+- I'm a Master of Science in Data Analytics Engineering student at Northeastern University, currently on a co-op at HarbourVest Partners. I also serve as an MLOps Graduate Teaching Assistant, where I mentor students in building scalable machine learning workflows and deploying robust models. 
+- My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
 
 ---
 
@@ -17,17 +16,19 @@ I'm a Data Analytics graduate student at Northeastern University with 2+ years o
 **SKILLS | TECHNOLOGIES:** <br>
 - **Programming:** Python, SQL, C++ <br>
 - **Data Science and ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Spacy, LangChain <br>
-- **Data Engineering:** MySQL, PostgreSQL, MongoDB, BigQuery, Airflow, Redis, Spark, Snowflake, Databricks, Tableau <br>
-- **Deployment:** Docker, Kubernetes, Vertex AI, SageMaker, FastAPI, DVC, MLflow, GitHub Actions <br>
-- **Cloud Technologies:** Google Cloud Platform, Amazon Web Services <br>
-- **Certifications:** Databricks Generative AI, AWS Generative AI with LLMs, Advanced SQL (HackerRank) <br>
+- **Data Engineering:** MySQL, MongoDB, BigQuery, Airflow, Spark, Snowflake, Databricks, Tableau <br>
+- **MLOps:** Docker, Kubernetes, Kubeflow, Vertex AI, SageMaker, FastAPI, DVC, GitHub, MLflow <br>
+- **Cloud Platform:** Microsoft Azure (Data Factory, DevOps, Machine Learning, AKS, SQL, Synapse), Google Cloud Platform <br>
 
 ---
 
 **CONTACT:**
-- Email: rahul.odedra@outlook.in 
-- Phone: +1(857)398-3286 
+- Email: rahulodedra3@outlook.in  
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahul.odedra30)
-- Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)
+<!-- - Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)  
+-->
+
+
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
