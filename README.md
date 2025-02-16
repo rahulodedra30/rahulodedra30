@@ -1,6 +1,10 @@
+<img src="https://komarev.com/ghpvc/?username=rahulodedra30&label=PROFILE%20VIEWS&color=164B60&style=plastic" alt="Rahul-Odedra" />
+
 # Hey, I'm Rahul! 👋
 
 I'm a Data Analytics graduate student at Northeastern University with 2+ years of experience leveraging data to support businesses in automated and strategic decision-making. My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
+
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
 
 ---
 
