@@ -23,7 +23,7 @@
 ---
 
 **CONTACT:**
-- Email: rahulodedra3@outlook.in  
+- Email: rahulodedra3@outlook.com 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahul.odedra30)
