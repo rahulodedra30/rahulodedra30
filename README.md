@@ -2,7 +2,7 @@
 
 ### Hey, I'm Rahul! 👋
 
-- I'm a Master of Science in Data Analytics Engineering student at Northeastern University, currently on a co-op at HarbourVest Partners. I also serve as an MLOps Graduate Teaching Assistant, where I mentor students in building scalable machine learning workflows and deploying robust models. 
+- I'm a Master of Science in Data Analytics Engineering student at Northeastern University. I also serve as an MLOps Graduate Teaching Assistant, where I mentor students in building scalable machine learning workflows and deploying robust models. 
 - My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
 
 ---
@@ -23,15 +23,16 @@
 ---
 
 **CONTACT:**
-- Email: rahulodedra3@outlook.com 
+- Email: rahulodedra.work@gmail.com 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahul.odedra30)
 <!-- - Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)  
--->
+
 
 ---
 
 **GitHub Stats:**
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
+-->
