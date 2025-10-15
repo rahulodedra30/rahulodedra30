@@ -14,11 +14,13 @@
 ---
 
 **SKILLS | TECHNOLOGIES:** <br>
-- **Programming:** Python, SQL, C++ <br>
-- **Data Science and ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, NLTK, Spacy, LangChain <br>
-- **Data Engineering:** MySQL, MongoDB, BigQuery, Airflow, Spark, Snowflake, Databricks, Tableau <br>
-- **MLOps:** Docker, Kubernetes, Kubeflow, Vertex AI, SageMaker, FastAPI, DVC, GitHub, MLflow <br>
-- **Cloud Platform:** Microsoft Azure (Data Factory, DevOps, Machine Learning, AKS, SQL, Synapse), Google Cloud Platform <br>
+
+- **Programming:** Python, SQL, R, C++
+- **Statistics and Data Science:** Pandas, NumPy, Scikit-Learn, Tensorflow, PyTorch, Spacy, SciPy, NLTK, LangChain, Hypothesis Testing (A/B
+Testing), ANOVA, Regression Analysis, Classification, Clustering
+- **Data Engineering:** MySQL, Airflow, Spark (PySpark), Snowflake, Databricks, Redis, Kafka, Tableau, Power BI, MongoDB
+- **Deployment and MLOps:** Docker, TensorFlow Extended (TFX), MLflow, Terraform, FastAPI, DVC, GitHub, Kubeflow, ONNX, Quantization
+- **Cloud Platforms:** Azure (ML, DevOps, Synapse, Data Factory), GCP (Vertex AI, BigQuery, Cloud Composer), AWS (SageMaker, Lambda, ECS)
 
 ---
 
