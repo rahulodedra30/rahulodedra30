@@ -8,8 +8,8 @@
 ---
 
 **EDUCATION:**  
-- Master of Science in Data Analytics Engineering at Northeastern University, Boston (May 2025)
-- Bachelor of Engineering in Computer Science (June 2022) <br>
+- Master of Science in Data Analytics Engineering at Northeastern University, Boston (December 2025)
+- Bachelor of Engineering in Computer Science <br>
 
 ---
 
