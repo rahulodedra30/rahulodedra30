@@ -2,7 +2,7 @@
 
 ### Hey, I'm Rahul! 👋
 
-- I'm a Master of Science in Data Analytics Engineering student at Northeastern University. I also serve as an MLOps Graduate Teaching Assistant, where I mentor students in building scalable machine learning workflows and deploying robust models. 
+- I'm a Master of Science in Data Analytics Engineering student at Northeastern University.
 - My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
 
 ---
@@ -25,7 +25,6 @@ Testing), ANOVA, Regression Analysis, Classification, Clustering
 ---
 
 **CONTACT:**
-- Email: rahulodedra.work@gmail.com 
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 - GitHub: [rahulodedra30](https://github.com/rahulodedra30)
 - Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahul.odedra30)
