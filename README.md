@@ -2,34 +2,26 @@
 
 ### Hey, I'm Rahul! 👋
 
-- I'm a Master of Science in Data Analytics Engineering student at Northeastern University.
-- My areas of interest include Analytics, Statistical Methods, ML, MLOps, Natural Language Processing, and Computer Vision.
+- My areas of interest include Analytics, Statistical Methods, ML, MLOps, Generative AI, and Computer Vision.
 
 ---
 
 **EDUCATION:**  
-- Master of Science in Data Analytics Engineering at Northeastern University, Boston (December 2025)
+- Master of Science in Data Analytics Engineering at Northeastern University
 - Bachelor of Engineering in Computer Science <br>
 
 ---
 
 **SKILLS | TECHNOLOGIES:** <br>
-
-- **Programming:** Python, SQL, R, C++
-- **Statistics and Data Science:** Pandas, NumPy, Scikit-Learn, Tensorflow, PyTorch, Spacy, SciPy, NLTK, LangChain, Hypothesis Testing (A/B
-Testing), ANOVA, Regression Analysis, Classification, Clustering
+- **Programming & Analytics:** Python, SQL, R, C++, Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, LangGraph
 - **Data Engineering:** MySQL, Airflow, Spark (PySpark), Snowflake, Databricks, Redis, Kafka, Tableau, Power BI, MongoDB
-- **Deployment and MLOps:** Docker, TensorFlow Extended (TFX), MLflow, Terraform, FastAPI, DVC, GitHub, Kubeflow, ONNX, Quantization
-- **Cloud Platforms:** Azure (ML, DevOps, Synapse, Data Factory), GCP (Vertex AI, BigQuery, Cloud Composer), AWS (SageMaker, Lambda, ECS)
+- **Deployment & MLOps:** Docker, MLflow, CI/CD, Terraform, FastAPI, DVC, GitHub, Kubeflow, ONNX, Quantization
+- **Cloud Platforms:** Azure (ML, Kubernetes, Data Factory), GCP (Vertex AI, BigQuery), AWS (SageMaker, Lambda, ECS)
 
 ---
 
 **CONTACT:**
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
-- GitHub: [rahulodedra30](https://github.com/rahulodedra30)
-- Tableau: [rahulodedra30](https://public.tableau.com/app/profile/rahul.odedra30)
-<!-- - Portfolio: [Rahul Odedra](https://perpetual-rubidium-783.notion.site/Rahul-Odedra-0fea2577996c41f3b873407af1a1ccb4)  
-
 
 ---
 
