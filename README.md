@@ -24,7 +24,7 @@
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 
 ---
-
+<!-- 
 **GitHub Stats:**
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulodedra30&show_icons=true&theme=algolia)
