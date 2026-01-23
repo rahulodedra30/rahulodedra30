@@ -2,7 +2,7 @@
 
 ### Hey, I'm Rahul! 👋
 
-- My areas of interest include Analytics, Statistical Methods, ML, MLOps, Generative AI, and Computer Vision.
+- My areas of interest include Data Science & Analytics, Statistical Methods, ML, MLOps, Generative AI, and Computer Vision.
 
 ---
 
