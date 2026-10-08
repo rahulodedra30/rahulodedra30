@@ -19,7 +19,7 @@
 - **Cloud Platforms:** Azure (ML, Kubernetes, Data Factory), GCP (Vertex AI, BigQuery), AWS (SageMaker, Lambda, ECS)
 
 ---
-
+<!--
 **CONTACT:**
 - LinkedIn: [rahulodedra30](https://www.linkedin.com/in/rahulodedra30) 
 
